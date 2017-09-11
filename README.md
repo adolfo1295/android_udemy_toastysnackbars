@@ -1,1 +1,3 @@
-# android_udemy_toastysnackbars
+# Android proyect - intro
+
+Proyecto de introduccion especidifcaod en el uso de snackbar y toast
